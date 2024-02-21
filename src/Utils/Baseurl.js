@@ -1,0 +1,3 @@
+export const base_url='https://ngp2xm9jy3.ap-south-1.awsapprunner.com/api/v1/'
+
+export const auth_token ='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY1Y2RlNDBlNmEzOWY1ODdjNmUwYmFjNSIsIm5hbWUiOiJBYmhpc2hlayBLdW1hciIsInVzZXJfdHlwZSI6IlRMIiwicHVibGljX3VzZXJJZCI6IlRMMTkwODMifSwiaWF0IjoxNzA4MDYxNTY5LCJleHAiOjE3MTA2NTM1Njl9.itl3JxVEE4nK_jZAPg7CXpbLB9nUioUGaY9A-Qej8NE'

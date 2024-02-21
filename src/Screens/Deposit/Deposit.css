@@ -1,0 +1,10 @@
+.top-title-deposit{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.mainbuton-deposit{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
