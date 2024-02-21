@@ -1,0 +1,63 @@
+/* Add these styles to your CSS file */
+
+/* Styles for the BankList component */
+.BankList {
+    margin: 20px;
+  }
+  
+  .BankList input {
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .BankList table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+  }
+  
+  .BankList th, .BankList td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .BankList th {
+    background-color: #f2f2f2;
+  }
+  
+  /* Styles for the Pagination component */
+  .pagination {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .pagination li {
+    margin: 0 5px;
+  }
+  
+  .pagination button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  
+  .pagination button:hover {
+    background-color: #45a049;
+  }
+  
+  .pagination .active button {
+    background-color: #45a049;
+  }
+  
+  

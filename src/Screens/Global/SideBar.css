@@ -1,0 +1,199 @@
+.css-1wvake5{
+    height: 100vh;
+    background-color:rgb(28 27 27 / 70%)
+}
+
+.ps-menu-icon{
+    font-size: 35px !important;
+}
+.ps-menuitem-root{
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0px 0px 15px #8080804f;
+}
+.ps-menuitem-root .MuiBox-root{
+    margin-top:20px ;
+}
+#ps-menu-button-test-id{
+    background-color: rebeccapurple;
+}
+#form-inputtttt{
+    margin: 10px;
+}
+.css-ewdv3l{
+    background-color: "#ccccccff";
+}
+.css-dip3t8{
+    padding: 12px;
+}
+.css-1l8icbj{
+    padding-left: 0px !important;
+}
+#form-inputtttt{
+    margin: 10px 0px !important;
+}
+.ps-menuitem-root:hover{
+    border-radius: 15px !important;
+}
+.ps-menu-button:hover{
+    border-radius: 15px !important;
+}
+.css-16jesut >.ps-menu-button{
+    height: auto !important;
+    padding: 10px 12px !important;
+}
+.css-1654oxy >.ps-menu-button{
+    height: auto !important;
+    padding: 10px 12px !important;
+}
+.css-wx7wi4{
+    height: auto !important;
+    width: auto !important;
+    min-width: auto !important;
+}
+.css-havevq-MuiSvgIcon-root{
+    width: 25px !important;
+    height: auto !important;
+}
+.css-ewdv3l li a span{
+    font-weight: 600 !important;
+    font-size: 13px;
+}
+.css-ewdv3l li a p{
+    font-weight: 600 !important;
+    font-size: 13px;
+}
+.css-ewdv3l li:first-child a{
+    margin-top: 0px !important;
+}
+.ps-menuitem-root{
+    background-color: unset !important;
+    box-shadow: none !important;
+}
+.css-ewdv3l li a{
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0px 0px 15px #8080804f;
+}
+.css-ewdv3l .ps-menu-button{
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0px 0px 15px #8080804f;
+}
+.css-ewdv3l li a{
+    margin: 10px 0px !important;
+}
+.css-z5rm24{
+    background-color: unset !important;
+}
+.css-1tqrhto >.ps-menu-button{
+    padding: 10px 12px !important;
+    height: auto !important;
+}
+.ps-submenu-content ul{
+    padding-left: 8px !important;
+}
+.css-ewdv3l > div{
+    padding-left: 0px !important;
+}
+.MuiBox-root{
+    width: 20% !important;
+}
+.css-1wvake5{
+    width: 100% !important;
+    min-width: 100% !important;
+}
+#root{
+    width: unset !important;
+    height: unset !important;
+}
+.content .MuiBox-root{
+    width: 100% !important;
+}
+.ps-menu-root .MuiBox-root{
+    width: 100% !important;
+}
+.css-k008qs button{
+    width: auto !important;
+    color: #fff !important;
+}
+.css-k008qs{
+    justify-content: end !important;
+}
+.css-1fw5qro-MuiPaper-root{
+    padding: 20px;
+}
+.css-17vbkzs-MuiFormControl-root-MuiTextField-root{
+    margin: 0px !important;
+}
+.css-1nrlq1o-MuiFormControl-root{
+    margin: 0px !important;
+}
+.css-1fw5qro-MuiPaper-root button{
+    margin: 0px !important;
+}
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input{
+    height: auto !important;
+    padding: 8px 12px !important;
+    font-size: 15px;
+
+}
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input::placeholder{
+    font-size: 15px !important;
+}
+.css-17vbkzs-MuiFormControl-root-MuiTextField-root{
+    display: flex !important;
+    align-items: center;
+    position: relative !important;
+}
+.css-1e8zcb7-MuiFormLabel-root-MuiInputLabel-root{
+    top: 50% !important;
+    left: 12px !important;
+    transform: translate(-0%, -50%) !important;
+    line-height: normal !important;
+}
+.css-ewdv3l ul li span{
+    font-size: 12px;
+}
+.css-16jesut >.ps-menu-button:focus{
+    background-color: #113f4fff !important;
+    color: #fff !important;
+}
+.css-1tqrhto >.ps-menu-button:focus{
+    background-color: #113f4fff !important;
+    color: #fff !important;
+}
+.css-1tqrhto >.ps-menu-button{
+    transition:backgrond .3s !important;
+}
+.css-z3c6am-MuiFormControl-root-MuiTextField-root{
+    margin-right: 12px !important;
+} 
+.css-9o0b46-MuiInputBase-root-MuiOutlinedInput-root{
+    padding-right: 0px !important;
+    
+}
+.css-q8hpuo-MuiFormControl-root{
+    margin-right: 12px !important;
+}
+.css-4htzuu-MuiTableRow-root th{
+    font-size: 16px !important;
+}
+.tableelement{
+    margin-top: 40px !important;
+    margin-left: 0px !important;
+    margin-bottom: 40px !important;
+    width: 100% !important;
+    box-shadow: rgba(128, 128, 128, 0.253) 2px 2px 15px !important;
+}
+.content{
+    height: 100vh !important;
+}
+.css-1fw5qro-MuiPaper-root{
+    height: 90vh !important;
+}
+.css-doc006-MuiTablePagination-root{
+    margin-left: 0px !important;
+    width: 100% !important;
+    box-shadow: rgba(128, 128, 128, 0.253) 2px 2px 15px !important;
+}
